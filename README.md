@@ -1,5 +1,4 @@
 # Automacao e Simulacao de Processos de Negocio
-- **DATA** 28 de maio
 - **LOCAL** IC UFMT
 - **PUBLICO** Administracao Estatistica Programacao
 
